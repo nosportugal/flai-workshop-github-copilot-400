@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/nos-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/nos-logo-light.png">
+    <img alt="NOS Logo" src="images/nos-logo-light.png" width="200">
+  </picture>
+</p>
+
 # Integrate MCP with GitHub Copilot
 
 _Learn how to give GitHub Copilot more tools to expand the capabilities of your development workflow. All in less than an hour!_
