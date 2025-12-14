@@ -15,7 +15,7 @@ _Learn how to give GitHub Copilot more tools to expand the capabilities of your 
 - **Who is this for**: Developers looking to enhance their AI-assisted workflows, GitHub Copilot users, and AI enthusiasts.
 - **What you'll learn**: We'll introduce MCP basics, a GitHub MCP server setup, and integration with Copilot Agent Mode.
 - **What you'll build**: A mixed development workflow that uses GitHub Copilot to manage issues while upgrading the extracurricular activities website for Mergington High School.
-- **Prerequisites**: [Getting Started with Copilot](https://github.com/skills/getting-started-with-github-copilot) Exercise
+- **Prerequisites**: [Getting Started with Copilot](https://github.com/nosportugal/flai-workshop-github-copilot-100) Exercise
 - **How long**: This exercise takes less than one hour to complete.
 
 In this exercise, you will:
@@ -28,7 +28,7 @@ In this exercise, you will:
 ### How to start this exercise
 
 > [!IMPORTANT]
-> This exercise assumes basic knowledge of [GitHub Copilot](https://github.com/features/copilot). If you are unfamiliar, we recommend the [Getting Started with Copilot](https://github.com/skills/getting-started-with-github-copilot) exercise.
+> This exercise assumes basic knowledge of [GitHub Copilot](https://github.com/features/copilot). If you are unfamiliar, we recommend the [Getting Started with Copilot](https://github.com/nosportugal/flai-workshop-github-copilot-100) exercise.
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
